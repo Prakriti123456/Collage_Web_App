@@ -1,0 +1,92 @@
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+.copy_right_fotter
+{
+position: fixed;
+bottom: 0;
+width: 100%;
+text-align: center;
+background-color: grey;
+color: black;
+font-style:italic;
+}
+h1{
+font-size: 40px;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-weight: bold;
+font-style: oblique;
+}
+
+h4{
+font-size: 20px;
+font-family:Arial, Helvetica, sans-serif;
+font-weight: bold;
+font-style:italic;
+}
+
+#camera{
+    width:500px;
+    height:400px;
+    border-color:black;
+}
+
+#result1{
+    width:400px;
+    height:400px;
+    border-radius:40px;
+    padding:30px;
+    box-shadow:0 6px 8px rgba(2,2,2,0.2);
+    display:inline-block;
+    display:flex;
+    align-content: center;
+}
+#result2{
+    width:400px;
+    height:400px;
+    border-radius:40px;
+    padding:30px;
+    box-shadow:0 6px 8px rgba(2,2,2,0.2);
+    float: left;
+    display:inline-block;
+}
+#result3{
+    width:400px;
+    height:400px;
+    border-radius:40px;
+    padding:30px;
+    box-shadow:0 6px 8px rgba(2,2,2,0.2);
+    float: left;
+    display:inline;
+     display:flex;
+    align-content: center;
+}
+img:hover{
+    border-radius: 140px;
+}
+
+#resultRow{
+    float:centre;
+    display:inline-block;
+}
+
+
+
+
+
